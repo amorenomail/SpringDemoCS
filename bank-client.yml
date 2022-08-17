@@ -1,0 +1,3 @@
+name: bank-client
+server:
+  port: 8201
